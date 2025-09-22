@@ -1,0 +1,1586 @@
+[
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 7,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 7
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 19
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 1,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 11,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 10
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 25,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 1,
+      "score": 23
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 4,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 17
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 15,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 2,
+      "score": 11
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_19",
+    "breakdown": {
+      "correct": 12,
+      "incorrect": 11,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 4,
+      "score": -3
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_20",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 2,
+      "hallucinated": 8,
+      "invalid": 33,
+      "missed": 3,
+      "score": -45
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 11,
+      "incorrect": 13,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": -3
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 4,
+      "missed": 0,
+      "score": 21
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 10,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 13,
+      "missed": 0,
+      "score": -5
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 29
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 2,
+      "hallucinated": 0,
+      "invalid": 9,
+      "missed": 1,
+      "score": 6
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 1,
+      "score": 24
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 0,
+      "hallucinated": 46,
+      "invalid": 12,
+      "missed": 2,
+      "score": -34
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 15,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 2,
+      "score": 11
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 1,
+      "score": 15
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 6,
+      "incorrect": 1,
+      "hallucinated": 12,
+      "invalid": 5,
+      "missed": 0,
+      "score": -12
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_19",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 3,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_20",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 10,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 19,
+      "missed": 0,
+      "score": -10
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 40,
+      "missed": 0,
+      "score": -15
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 11,
+      "incorrect": 13,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": -3
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 9,
+      "missed": 2,
+      "score": 14
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 1,
+      "score": 23
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 29
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 4,
+      "hallucinated": 42,
+      "invalid": 15,
+      "missed": 0,
+      "score": -37
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_20",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 16,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 2,
+      "score": 11
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 19
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 2,
+      "incorrect": 4,
+      "hallucinated": 10,
+      "invalid": 8,
+      "missed": 1,
+      "score": -21
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 4,
+      "missed": 0,
+      "score": 21
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 10,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 13,
+      "missed": 0,
+      "score": -5
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 11,
+      "incorrect": 13,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": -3
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 2,
+      "hallucinated": 0,
+      "invalid": 9,
+      "missed": 1,
+      "score": 6
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 1,
+      "score": 25
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 28
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 4,
+      "hallucinated": 40,
+      "invalid": 15,
+      "missed": 0,
+      "score": -35
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 19
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 15
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_19",
+    "breakdown": {
+      "correct": 2,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 24,
+      "missed": 0,
+      "score": -23
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 22,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 1,
+      "missed": 1,
+      "score": 19
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 2,
+      "incorrect": 5,
+      "hallucinated": 6,
+      "invalid": 1,
+      "missed": 0,
+      "score": -10
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 10,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 13,
+      "missed": 0,
+      "score": -5
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 9,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 1,
+      "score": 6
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 6,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 11
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 29
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 0,
+      "hallucinated": 41,
+      "invalid": 13,
+      "missed": 0,
+      "score": -26
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 19
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 1,
+      "score": 15
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 6,
+      "incorrect": 1,
+      "hallucinated": 5,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_19",
+    "breakdown": {
+      "correct": 12,
+      "incorrect": 15,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": -3
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_20",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 25,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 1,
+      "score": 22
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 12,
+      "incorrect": 12,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": -1
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 29
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 39,
+      "missed": 0,
+      "score": -14
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 9,
+      "missed": 3,
+      "score": 6
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 0,
+      "hallucinated": 47,
+      "invalid": 7,
+      "missed": 0,
+      "score": -26
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 6,
+      "incorrect": 1,
+      "hallucinated": 7,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_01",
+    "breakdown": {
+      "correct": 5,
+      "incorrect": 2,
+      "hallucinated": 8,
+      "invalid": 5,
+      "missed": 0,
+      "score": -10
+    },
+    "totalQualifiers": 7
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_02",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 12,
+      "score": -12
+    },
+    "totalQualifiers": 12
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_03",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 24
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_04",
+    "breakdown": {
+      "correct": 28,
+      "incorrect": 1,
+      "hallucinated": 1,
+      "invalid": 1,
+      "missed": 0,
+      "score": 25
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_05",
+    "breakdown": {
+      "correct": 24,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 23
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_06",
+    "breakdown": {
+      "correct": 23,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_07",
+    "breakdown": {
+      "correct": 15,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 2,
+      "missed": 2,
+      "score": 11
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_08",
+    "breakdown": {
+      "correct": 22,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 1,
+      "missed": 1,
+      "score": 19
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_09",
+    "breakdown": {
+      "correct": 26,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 3,
+      "missed": 0,
+      "score": 22
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_10",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 30,
+      "score": -30
+    },
+    "totalQualifiers": 30
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_11",
+    "breakdown": {
+      "correct": 27,
+      "incorrect": 0,
+      "hallucinated": 17,
+      "invalid": 1,
+      "missed": 0,
+      "score": 9
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_12",
+    "breakdown": {
+      "correct": 25,
+      "incorrect": 4,
+      "hallucinated": 43,
+      "invalid": 14,
+      "missed": 0,
+      "score": -36
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_13",
+    "breakdown": {
+      "correct": 18,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 1,
+      "missed": 1,
+      "score": 15
+    },
+    "totalQualifiers": 21
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_14",
+    "breakdown": {
+      "correct": 3,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 7,
+      "missed": 14,
+      "score": -18
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_15",
+    "breakdown": {
+      "correct": 1,
+      "incorrect": 1,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 2
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_16",
+    "breakdown": {
+      "correct": 11,
+      "incorrect": 13,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 24
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_17",
+    "breakdown": {
+      "correct": 29,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 29
+    },
+    "totalQualifiers": 29
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_18",
+    "breakdown": {
+      "correct": 19,
+      "incorrect": 0,
+      "hallucinated": 1,
+      "invalid": 0,
+      "missed": 0,
+      "score": 18
+    },
+    "totalQualifiers": 19
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_19",
+    "breakdown": {
+      "correct": 13,
+      "incorrect": 13,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 1,
+      "score": -1
+    },
+    "totalQualifiers": 27
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_20",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 0,
+      "invalid": 0,
+      "missed": 0,
+      "score": 0
+    },
+    "totalQualifiers": 0
+  },
+  {
+    "code": "HOST_AI_SUGGESTIONS_TEST_21",
+    "breakdown": {
+      "correct": 0,
+      "incorrect": 0,
+      "hallucinated": 2,
+      "invalid": 0,
+      "missed": 0,
+      "score": -2
+    },
+    "totalQualifiers": 0
+  }
+]

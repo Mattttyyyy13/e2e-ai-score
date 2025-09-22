@@ -1,7 +1,7 @@
 {
-  "name": "e2e-test",
+  "name": "e2e-ai-score",
   "version": "1.0.0",
-  "description": "",
+  "description": "Must use npm v18 ++. Better if v24 above.",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf allure-results allure-report",
@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mattttyyyy13/e2e-test.git"
+    "url": "git+https://github.com/Mattttyyyy13/e2e-ai-score.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Mattttyyyy13/e2e-test/issues"
+    "url": "https://github.com/Mattttyyyy13/e2e-ai-score/issues"
   },
-  "homepage": "https://github.com/Mattttyyyy13/e2e-test#readme",
+  "homepage": "https://github.com/Mattttyyyy13/e2e-ai-score#readme",
   "devDependencies": {
     "@playwright/test": "^1.54.2",
     "@types/form-data": "^2.2.1",
