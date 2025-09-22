@@ -36,20 +36,20 @@ jobs:
           AI_SUGGESTIONS_AUTH_TEST_IDENTITY_URL: ${{ secrets.AI_SUGGESTIONS_AUTH_TEST_IDENTITY_URL }}
           AI_SUGGESTIONS_AUTH_TEST_PRODUCT_URL: ${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PRODUCT_URL }}
           AI_SUGGESTIONS_AUTH_TEST_USERNAME: ${{ secrets.AI_SUGGESTIONS_AUTH_TEST_USERNAME }}
-          AI_SUGGESTIONS_AUTH_TEST_PASSWORD: ${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PASSWORD }}
+          AI_SUGGESTIONS_AUTH_TEST_PASS: ${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PASS }}
           AI_SUGGESTIONS_AUTH_PROD_IDENTITY_URL: ${{ secrets.AI_SUGGESTIONS_AUTH_PROD_IDENTITY_URL }}
           AI_SUGGESTIONS_AUTH_PROD_PRODUCT_URL: ${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PRODUCT_URL }}
           AI_SUGGESTIONS_AUTH_PROD_USERNAME: ${{ secrets.AI_SUGGESTIONS_AUTH_PROD_USERNAME }}
-          AI_SUGGESTIONS_AUTH_PROD_PASSWORD: ${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PASSWORD }}
+          AI_SUGGESTIONS_AUTH_PROD_PASS: ${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PASS }}
         run: | # ✅ Secret masking and catching failed tests to proceed deploying the page
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_TEST_IDENTITY_URL }}" 
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PRODUCT_URL }}" 
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_TEST_USERNAME }}"
-          echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PASSWORD }}"
+          echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_TEST_PASS }}"
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_PROD_IDENTITY_URL }}" 
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PRODUCT_URL }}" 
           echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_PROD_USERNAME }}"
-          echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PASSWORD }}"
+          echo "::add-mask::${{ secrets.AI_SUGGESTIONS_AUTH_PROD_PASS }}"
           npx playwright test || echo "::warning::Tests failed but continuing CI"
           # after `npx playwright test` step
 
