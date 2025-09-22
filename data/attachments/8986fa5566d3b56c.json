@@ -1,0 +1,109 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_06",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/hfb/h9d/11141185339422.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-06-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "SUGAR, WHEAT FLOUR, VEGETABLE OIL, CORNSTARCH, COCOA POWDER, MALTODEXTRIN, FRUCTOSE SYRUP, IODISED SALT, EMULSIFIER (SOY LECITHIN), RAISING AGENTS (500, 503), FLAVOURS, FOOD ACID (330), COLOUR (120), ANTIOXIDANT (319), MINERALS (IRON, ZINC), VITAMINS (RIBOFLAVIN, THIAMIN, FOLATE)."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "5%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "68.6g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "16.3g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "6%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "2100kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "499kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "8%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "23.2g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "5.5g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "2%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "3.7g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "<1.0g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "12%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "11.8g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "2.8g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "4%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "367mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "87mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "10%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "39.4g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "9.4g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "23.8g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "5.5"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [],
+  "type": "AI_OCR",
+  "active": true
+}

@@ -1,0 +1,194 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_11",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h26/h4b/11141189140510.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-11-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Whole grains (64%)(wheat, oats), fruit (sultanas [12%], apricot pieces [5%] [concentrated apricot puree, concentrated apple puree, invert sugar, humectant (glycerol), sugar, wheat fibre, gelling agent (pectin), acidity regulator (296), natural flavour, colours (turmeric, paprika)]), sugar, puffed triticale (wheat), wheat flour, barley malt extract, salt, natural flavour, minerals (iron, zinc oxide), vitamins (niacin, vitamin B6, riboflavin, folate)."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "9%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "70.9g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "28.4g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreDailyIntake",
+      "proposedValue": "13%"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "10.0g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "4.0g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "7%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "1510kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "600kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "1%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "2.3g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "0.9g"
+    },
+    {
+      "qualifier": "c_nipFolicAcidDailyIntake",
+      "proposedValue": "25%"
+    },
+    {
+      "qualifier": "c_nipFolicAcidQuantityPer100g",
+      "proposedValue": "125mcg"
+    },
+    {
+      "qualifier": "c_nipIronDailyIntake",
+      "proposedValue": "25%"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPer100g",
+      "proposedValue": "7.5mg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPerServe",
+      "proposedValue": "3.0mg"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "6%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "7.9g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "3.2g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "1%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "0.6g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0.2g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "0.5%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "30mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "12mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "10%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "22.9g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "9.2g"
+    },
+    {
+      "qualifier": "c_nipVitaminB2DailyIntake",
+      "proposedValue": "25%"
+    },
+    {
+      "qualifier": "c_nipVitaminB2QuantityPer100g",
+      "proposedValue": "1.06mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB2QuantityPerServe",
+      "proposedValue": "0.42mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB3DailyIntake",
+      "proposedValue": "25%"
+    },
+    {
+      "qualifier": "c_nipVitaminB3QuantityPer100g",
+      "proposedValue": "6.2mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB3QuantityPerServe",
+      "proposedValue": "2.5mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB6DailyIntake",
+      "proposedValue": "25%"
+    },
+    {
+      "qualifier": "c_nipVitaminB6QuantityPer100g",
+      "proposedValue": "1.0mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB6QuantityPerServe",
+      "proposedValue": "0.4mg"
+    },
+    {
+      "qualifier": "c_nipZincDailyIntake",
+      "proposedValue": "10%"
+    },
+    {
+      "qualifier": "c_nipZincQuantityPer100g",
+      "proposedValue": "3.0mg"
+    },
+    {
+      "qualifier": "c_nipZincQuantityPerServe",
+      "proposedValue": "1.2mg"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "40g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "11"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipFolateQuantityPerServe",
+      "proposedValue": "50pg"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

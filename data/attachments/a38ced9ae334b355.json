@@ -1,0 +1,113 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_16",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h5a/ha6/11146246389790.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-16-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Sugar, Vegetable Fats [Emulsifier (Soy Lecithin), Full Cream Milk Powder (19%), Wheat Flour, Choc Paste (Milk, Wheat, Soy), Non-Pareils (1.8%) [Sugar, Tapioca Starch, Colours (Carminic Acid, Copper Chlorophyllin), Glazing Agent Carnauba Wax), Whey Powder (Milk), Flavours, Emulsifiers Soy Lecithin, 476), Raising Agent (Sodium Bicarbonate), Yeast, Processing Aid (Wheat)."
+    },
+    {
+      "qualifier": "c_nipAdditionalInformation",
+      "proposedValue": "*Percentage Daily Intakes are based on an average adult diet of 8700kJ."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "3%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "61.6g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "8.6g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "3%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "2160kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "300kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "5%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "26.7g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "3.7g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "2%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "6.6g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "<1g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "9%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "14.9g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "2.1g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "<1%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "78mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "11mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "8%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "50.7g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "7.1g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "14g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "2"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [],
+  "type": "AI_OCR",
+  "active": true
+}

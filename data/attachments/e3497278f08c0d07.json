@@ -1,0 +1,12 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_20",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h0a/he1/11146651893790.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-20-2.jpg"
+  },
+  "attributeSuggestions": [],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [],
+  "type": "AI_OCR",
+  "active": true
+}

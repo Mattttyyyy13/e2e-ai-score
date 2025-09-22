@@ -1,0 +1,109 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_14",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h53/h90/11141191958558.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-14-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Wheat Flour, Onion (17%), Corn Starch, lodised Salt, Skim Milk Powder, Vegetable Fat (Vegetable Fat, Flavour, Sunflower Lecithin), Flavour Enhancer (621), Soy Sauce Powder (Soybean, Wheat), Vegetable and Spice Extracts, Lactose (Milk), Stabiliser (341), Flavour."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "2%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "3.0g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "6.0g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "2%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "80kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "160kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "1%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "0.4g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "0.8g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "3%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "0.7g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "1.4g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "2%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "0.2g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0.4g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "24%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "270mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "545mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "1%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "0.7g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "1.3g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "200ml"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "3"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [],
+  "type": "AI_OCR",
+  "active": true
+}

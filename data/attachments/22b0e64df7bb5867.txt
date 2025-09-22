@@ -1,0 +1,8 @@
+Negative score for HOST_AI_SUGGESTIONS_TEST_09: {
+  correct: 26,
+  incorrect: 1,
+  hallucinated: 0,
+  invalid: 39,
+  missed: 0,
+  score: -14
+}

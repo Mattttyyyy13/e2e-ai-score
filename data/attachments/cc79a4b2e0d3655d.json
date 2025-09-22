@@ -1,0 +1,472 @@
+{
+  "code": "HOST_AI_SUGGESTIONS_TEST_04",
+  "catalogVersion": "HostingDemoProductCatalog",
+  "ean": "9999999999100",
+  "supercategories": "HOST_Pantry",
+  "categoryName": "Pantry",
+  "catalogName": "HostingDemoProductCatalog",
+  "modifiedtime": "2025-09-11T17:42:26Z",
+  "creationtime": "2025-09-11T05:06:08Z",
+  "productChangeTime": "2025-09-11T17:42:26Z",
+  "imageChangeTime": "2025-09-11T05:06:18Z",
+  "wfEnrichStatus": "EMPTY",
+  "onlineDate": "1998-12-31T13:00:10Z",
+  "wfQAStatus": "EMPTY",
+  "wfImageStatus": "INCOMING",
+  "shortCode": "QEM7013",
+  "wfCopyStatus": "EMPTY",
+  "offlineDate": "2099-12-30T13:00:10Z",
+  "wfImageStatusChangeUser": "hostdemosku2",
+  "wfImageStatusChangeTime": "2025-09-11T05:06:11Z",
+  "lastEditedTime": "2025-09-11T17:42:26Z",
+  "lastEditedUser": "hostdemosku2",
+  "parentProduct": false,
+  "classificationAttributeList": [
+    {
+      "fullQualifier": "c_nipProteinDailyIntake",
+      "name": "Protein % Daily Intake",
+      "value": "6%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 6,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalDailyIntake",
+      "name": "Fat Total % Daily Intake",
+      "value": "<1%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "<",
+      "valuePart": 1,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_supplier",
+      "name": "Supplier",
+      "value": "HostingDemo",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_ingredients",
+      "name": "Ingredients",
+      "value": "Orange Juice (100%)",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJDailyIntake",
+      "name": "Energy kJ % Daily Intake",
+      "value": "9%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 9,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateQuantityPer100g",
+      "name": "Carbohydrate Quantity Per 100g",
+      "value": "8.7g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 8.7,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipSaturatedFatsDailyIntake",
+      "name": "Saturated Fats % Daily Intake",
+      "value": "0%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipSodiumQuantityPerServe",
+      "name": "Sodium Quantity Per Serve",
+      "value": "5mg",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 5,
+      "unit": "mg"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalQuantityPerServe",
+      "name": "Fat Total Quantity Per Serve",
+      "value": "<1.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "<",
+      "valuePart": 1,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJQuantityPer100g",
+      "name": "Energy kJ Quantity Per 100g",
+      "value": "164kJ",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 164,
+      "unit": "kJ"
+    },
+    {
+      "fullQualifier": "c_nipSugarsQuantityPer100g",
+      "name": "Sugars Quantity Per 100g",
+      "value": "8.1g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 8.1,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateDailyIntake",
+      "name": "Carbohydrate % Daily Intake",
+      "value": "14%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 14,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipProteinQuantityPer100g",
+      "name": "Protein Quantity Per 100g",
+      "value": "0.6g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0.6,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_assetType",
+      "name": "Asset Type",
+      "value": "Product Images",
+      "valueIdentifier": "Product Images",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "name": "Saturated Fats Quantity Per 100g",
+      "value": "0.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateQuantityPerServe",
+      "name": "Carbohydrate Quantity Per Serve",
+      "value": "43.5g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 43.5,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipDietaryFibreQuantityPer100g",
+      "name": "Dietary Fibre Quantity Per 100g",
+      "value": "0.6g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0.6,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipAddedSugarQuantityPerServe",
+      "name": "Added Sugar By Serving",
+      "value": "0.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipEnergyCalQuantityPerServe",
+      "name": "Energy Cal Quantity Per Serve",
+      "value": "196Cal",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 196,
+      "unit": "Cal"
+    },
+    {
+      "fullQualifier": "c_nipDietaryFibreDailyIntake",
+      "name": "Dietary Fibre % Daily Intake",
+      "value": "10%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 10,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipSodiumDailyIntake",
+      "name": "Sodium % Daily Intake",
+      "value": "<1%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "<",
+      "valuePart": 1,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "name": "Saturated Fats Quantity Per Serve",
+      "value": "0.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipProteinQuantityPerServe",
+      "name": "Protein Quantity Per Serve",
+      "value": "3.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 3,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_servingsPerPack",
+      "name": "Servings Per Pack",
+      "value": "1",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipSugarsQuantityPerServe",
+      "name": "Sugars Quantity Per Serve",
+      "value": "40.5g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 40.5,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalQuantityPer100g",
+      "name": "Fat Total Quantity Per 100g",
+      "value": "<1.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "<",
+      "valuePart": 1,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipDietaryFibreQuantityPerServe",
+      "name": "Dietary Fibre Quantity Per Serve",
+      "value": "3.0g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 3,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipSugarsDailyIntake",
+      "name": "Sugars % Daily Intake",
+      "value": "45%",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 45,
+      "unit": "%"
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJQuantityPerServe",
+      "name": "Energy kJ Quantity Per Serve",
+      "value": "820kJ",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 820,
+      "unit": "kJ"
+    },
+    {
+      "fullQualifier": "c_productionStatus",
+      "name": "ProductionStatus",
+      "value": "IN PROGRESS",
+      "valueIdentifier": "INPROGRESS",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_servingSize",
+      "name": "Serving Size",
+      "value": "500ml",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 500,
+      "unit": "ml"
+    },
+    {
+      "fullQualifier": "c_nipSodiumQuantityPer100g",
+      "name": "Sodium Quantity Per 100g",
+      "value": "1mg",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 1,
+      "unit": "mg"
+    },
+    {
+      "fullQualifier": "c_nipEnergyCalQuantityPer100g",
+      "name": "Energy Cal Quantity Per 100g",
+      "value": "39Cal",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 39,
+      "unit": "Cal"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h4a/h37/11141182849054.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "filesize": 1657179,
+      "mimeType": "image/jpeg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:18.000+0000",
+      "format": "original",
+      "resolution": "4000X4000",
+      "originalSourceUrl": "https://images.skulibrary.com/media/sys_master/h11/h02/15301452693534.jpg?response-content-disposition=inline;filename=BDD-9310113903978-2.jpg",
+      "colorSpace": "SRGB",
+      "widthPixels": 4000,
+      "heightPixels": 4000,
+      "xDpi": 300,
+      "yDpi": 300,
+      "rejectionCodes": []
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hab/hb5/11141182914590.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:12.000+0000",
+      "format": "515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h0c/h2c/11141182980126.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:12.000+0000",
+      "format": "160Wx160H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h90/ha4/11141183045662.tif?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.tif",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:12.000+0000",
+      "format": "tiff"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h46/h85/11141183111198.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:12.000+0000",
+      "format": "1000Wx1000H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hd8/h12/11141183176734.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:12.000+0000",
+      "format": "30Wx30H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hb2/he6/11141183242270.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:13.000+0000",
+      "format": "trim"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h18/hd2/11141183307806.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:13.000+0000",
+      "format": "2400Wx2400H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hfa/h54/11141183373342.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.png",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:14.000+0000",
+      "format": "png_515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hda/he3/11141183438878.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.png",
+      "index": 2,
+      "clippingPath": true,
+      "modifiedTime": "2025-09-11T05:06:18.000+0000",
+      "format": "png_2400Wx2400H"
+    }
+  ],
+  "numericalEans": [
+    9999999999100
+  ],
+  "contentRating": {
+    "contentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingHeroAndPackingImages",
+        "name": "Hero and Packaging Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedImages",
+        "name": "Extended Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingProductCopy",
+        "name": "Product Copy",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedData",
+        "name": "Product Extended Data",
+        "valid": true,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingCoreAttributes",
+        "name": "Core Attributes",
+        "valid": false,
+        "required": true
+      }
+    ],
+    "nonContributingContentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingRichContent",
+        "name": "Rich Content",
+        "valid": false,
+        "required": false
+      }
+    ],
+    "contentRatingScore": 20,
+    "lastEvaluation": "2025-09-11T05:06:11.456Z"
+  }
+}

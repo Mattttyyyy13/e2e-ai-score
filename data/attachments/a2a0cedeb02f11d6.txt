@@ -1,0 +1,8 @@
+Negative score for HOST_AI_SUGGESTIONS_TEST_12: {
+  correct: 24,
+  incorrect: 4,
+  hallucinated: 41,
+  invalid: 15,
+  missed: 0,
+  score: -36
+}
