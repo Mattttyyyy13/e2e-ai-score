@@ -1,0 +1,3 @@
+Auth cookies after login: []
+Using bearer token
+About to POST with context body = {"syntexUrl":"https://skuidp.cognitiveservices.azure.com/documentintelligence/documentModels/Production_Model_V2:analyze?_overload=analyzeDocument&api-version=2024-11-30","customPrompt":"### **Objecti ...

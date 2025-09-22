@@ -1,0 +1,295 @@
+{
+  "code": "HOST_AI_SUGGESTIONS_TEST_02",
+  "catalogVersion": "HostingDemoProductCatalog",
+  "ean": "9999999999902",
+  "supercategories": "HOST_Wellbeing",
+  "categoryName": "Wellbeing",
+  "catalogName": "HostingDemoProductCatalog",
+  "modifiedtime": "2025-09-16T02:24:22Z",
+  "creationtime": "2025-09-11T03:02:29Z",
+  "productChangeTime": "2025-09-16T02:24:22Z",
+  "imageChangeTime": "2025-09-11T03:02:35Z",
+  "wfEnrichStatus": "EMPTY",
+  "onlineDate": "1998-12-31T13:00:10Z",
+  "wfQAStatus": "EMPTY",
+  "wfImageStatus": "INCOMING",
+  "shortCode": "PZZ7011",
+  "wfCopyStatus": "EMPTY",
+  "offlineDate": "2099-12-30T13:00:10Z",
+  "wfImageStatusChangeUser": "henrikvis",
+  "wfImageStatusChangeTime": "2025-09-11T03:02:31Z",
+  "lastEditedTime": "2025-09-16T02:24:22Z",
+  "lastEditedUser": "hostdemosku2",
+  "parentProduct": false,
+  "classificationAttributeList": [
+    {
+      "fullQualifier": "c_supplier",
+      "name": "Supplier",
+      "value": "HostingDemo",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_ingredients",
+      "name": "Ingredients",
+      "value": "Lactose, Skim Milk, Whey Protein), Vegetable Oils (Rapeseed Oil, Coconut Oil, Sunflower Oil, tal Pamitate), Arachidonic Acid (AA) (Contains Milk), 2-fucosyllactose (2'-FL) (Contains Milk)^, cn Fast), Emulsifier (Soy Lecithin), Choline, Inositol, Taurine, Culture (Bifidobacterium infantis wax coine, ron, Magnesium, Manganese, Phosphorus, Potassium, Selenium, Sodium, Zinc, Parthenic Acid, Riboflavin, Thiamin, Vitamin A, Vitamin B6, Vitamin B12, Vitamin C, Vitamin D",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateQuantityPer100g",
+      "name": "Carbohydrate Quantity Per 100g",
+      "value": "57g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 57,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipSodiumQuantityPerServe",
+      "name": "Sodium Quantity Per Serve",
+      "value": "19mg",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 19,
+      "unit": "mg"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalQuantityPerServe",
+      "name": "Fat Total Quantity Per Serve",
+      "value": "3.5g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 3.5,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJQuantityPer100g",
+      "name": "Energy kJ Quantity Per 100g",
+      "value": "2100kJ",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 2100,
+      "unit": "kJ"
+    },
+    {
+      "fullQualifier": "c_nipProteinQuantityPer100g",
+      "name": "Protein Quantity Per 100g",
+      "value": "11.5g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 11.5,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_assetType",
+      "name": "Asset Type",
+      "value": "Product Images",
+      "valueIdentifier": "Product Images",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateQuantityPerServe",
+      "name": "Carbohydrate Quantity Per Serve",
+      "value": "7.7g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 7.7,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipProteinQuantityPerServe",
+      "name": "Protein Quantity Per Serve",
+      "value": "1.6g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 1.6,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalQuantityPer100g",
+      "name": "Fat Total Quantity Per 100g",
+      "value": "26g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 26,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJQuantityPerServe",
+      "name": "Energy kJ Quantity Per Serve",
+      "value": "284kJ",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 284,
+      "unit": "kJ"
+    },
+    {
+      "fullQualifier": "c_productionStatus",
+      "name": "ProductionStatus",
+      "value": "IN PROGRESS",
+      "valueIdentifier": "INPROGRESS",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_servingSize",
+      "name": "Serving Size",
+      "value": "4.5g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 4.5,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipSodiumQuantityPer100g",
+      "name": "Sodium Quantity Per 100g",
+      "value": "138mg",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 138,
+      "unit": "mg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h00/h83/11141156995102.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "filesize": 1016300,
+      "mimeType": "image/jpeg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:35.000+0000",
+      "format": "original",
+      "resolution": "3550X3550",
+      "originalSourceUrl": "https://images.skulibrary.com/media/sys_master/he9/he5/14275946840094.jpg?response-content-disposition=inline;filename=HPOS3BS.jpg",
+      "colorSpace": "SRGB",
+      "widthPixels": 3550,
+      "heightPixels": 3550,
+      "xDpi": 300,
+      "yDpi": 300,
+      "rejectionCodes": []
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h1d/h0d/11141157060638.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h52/h2e/11141157126174.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "1000Wx1000H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h24/ha1/11141157191710.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.png",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "png_515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h0a/hc0/11141157257246.tif?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.tif",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "tiff"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h94/hc1/11141157322782.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "160Wx160H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h3e/hae/11141157388318.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:32.000+0000",
+      "format": "trim"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hdd/h2f/11141157453854.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:33.000+0000",
+      "format": "30Wx30H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/ha8/h0e/11141157519390.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:33.000+0000",
+      "format": "2400Wx2400H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hff/h71/11141157650462.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.png",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T03:02:35.000+0000",
+      "format": "png_2400Wx2400H"
+    }
+  ],
+  "numericalEans": [
+    9999999999902
+  ],
+  "contentRating": {
+    "contentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingHeroAndPackingImages",
+        "name": "Hero and Packaging Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedImages",
+        "name": "Extended Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingProductCopy",
+        "name": "Product Copy",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedData",
+        "name": "Product Extended Data",
+        "valid": true,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingCoreAttributes",
+        "name": "Core Attributes",
+        "valid": false,
+        "required": true
+      }
+    ],
+    "nonContributingContentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingRichContent",
+        "name": "Rich Content",
+        "valid": false,
+        "required": false
+      }
+    ],
+    "contentRatingScore": 20,
+    "lastEvaluation": "2025-09-11T03:02:31.605Z"
+  }
+}
