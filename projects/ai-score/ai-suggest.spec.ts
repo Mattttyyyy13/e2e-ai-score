@@ -122,8 +122,11 @@ test.describe('AI OCR suggestions – scoring harness', () => {
       const bodyContext = (context && Object.keys(context).length > 0) ? context : undefined;
       if (bodyContext) {
         options.json = bodyContext;
+        // Ensure correct header so backend treats body as JSON
+        options.headers = { ...options.headers, 'Content-Type': 'application/json' };
       }
 
+      console.log('About to POST with context body =', bodyContext ? JSON.stringify(bodyContext).slice(0, 200) : 'none', '...');
       const resp = await api.post(query, options);
       expect(resp.ok()).toBeTruthy();
       const json = (await resp.json()) as ProductSuggestionResponse;
@@ -139,17 +142,17 @@ test.describe('AI OCR suggestions – scoring harness', () => {
       productStats.push({ code: productCode, breakdown, totalQualifiers: baseline.length });
 
       // Persist breakdown for cross-worker summary
-      const summaryPath = path.resolve(__dirname, '../../data/summary-temp.json');
-      let arr: any[] = [];
-      try {
-        if (existsSync(summaryPath)) {
-          arr = JSON.parse(readFileSync(summaryPath, 'utf-8'));
-        }
-      } catch {}
-      arr.push({ code: productCode, breakdown, totalQualifiers: baseline.length });
-      try {
-        require('fs').writeFileSync(summaryPath, JSON.stringify(arr, null, 2));
-      } catch {}
+      // const summaryPath = path.resolve(__dirname, '../../data/summary-temp.json');
+      // let arr: any[] = [];
+      // try {
+      //   if (existsSync(summaryPath)) {
+      //     arr = JSON.parse(readFileSync(summaryPath, 'utf-8'));
+      //   }
+      // } catch {}
+      // arr.push({ code: productCode, breakdown, totalQualifiers: baseline.length });
+      // try {
+      //   require('fs').writeFileSync(summaryPath, JSON.stringify(arr, null, 2));
+      // } catch {}
       
       testInfo.attach('Baseline Endpoint Response', {
         body: JSON.stringify(productJson, null, 2),

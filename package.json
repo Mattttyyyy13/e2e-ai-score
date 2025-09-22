@@ -4,10 +4,11 @@
   "description": "Must use npm v18 ++. Better if v24 above.",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf allure-results allure-report",
+    "clean": "rm -rf allure-results",
     "test": "npm run clean && playwright test",
-    "report": "node scripts/remove-setup-results.js && allure generate allure-results --clean -o allure-report && allure open allure-report",
-    "report:raw": "allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "copy:history": "node scripts/copy-allure-history.js",
+    "report": "node scripts/remove-setup-results.js && npm run copy:history && allure generate allure-results --clean -o allure-report && allure open allure-report",
+    "report:raw": "npm run copy:history && allure generate allure-results --clean -o allure-report && allure open allure-report",
     "test:ui": "playwright test --ui"
   },
   "repository": {

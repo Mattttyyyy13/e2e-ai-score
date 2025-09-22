@@ -53,6 +53,24 @@ jobs:
           npx playwright test || echo "::warning::Tests failed but continuing CI"
           # after `npx playwright test` step
 
+      - name: Checkout previous Allure report (gh-pages)
+        if: always()
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: prev-report
+
+      - name: Copy history from previous report
+        if: always()
+        run: |
+          if [ -d prev-report/history ]; then
+            echo "Found previous history, copying to allure-results"
+            mkdir -p allure-results/history
+            cp -R prev-report/history/. allure-results/history/ || true
+          else
+            echo "No history directory found in previous report"
+          fi
+
       - name: Remove setup test from allure results
         if: always()
         run: node scripts/remove-setup-results.js
