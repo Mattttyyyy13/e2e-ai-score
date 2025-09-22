@@ -1,0 +1,245 @@
+{
+  "code": "HOST_AI_SUGGESTIONS_TEST_01",
+  "catalogVersion": "HostingDemoProductCatalog",
+  "ean": "9999999999901",
+  "supercategories": "HOST_Wellbeing",
+  "categoryName": "Wellbeing",
+  "catalogName": "HostingDemoProductCatalog",
+  "modifiedtime": "2025-09-11T01:54:36Z",
+  "creationtime": "2025-09-11T01:38:38Z",
+  "productChangeTime": "2025-09-11T01:54:36Z",
+  "imageChangeTime": "2025-09-11T01:38:50Z",
+  "wfEnrichStatus": "EMPTY",
+  "onlineDate": "1998-12-31T13:00:10Z",
+  "wfQAStatus": "EMPTY",
+  "wfImageStatus": "INCOMING",
+  "shortCode": "PYJ7010",
+  "wfCopyStatus": "EMPTY",
+  "offlineDate": "2099-12-30T13:00:10Z",
+  "wfImageStatusChangeUser": "henrikvis",
+  "wfImageStatusChangeTime": "2025-09-11T01:38:43Z",
+  "lastEditedTime": "2025-09-11T01:54:36Z",
+  "lastEditedUser": "henrikvis",
+  "parentProduct": false,
+  "classificationAttributeList": [
+    {
+      "fullQualifier": "c_supplier",
+      "name": "Supplier",
+      "value": "HostingDemo",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_ingredients",
+      "name": "Ingredients",
+      "value": "Milk Solids, Vegetable Oil Blend (Soy), Galacto-oligosaccharide (GOS) (Milk), Emulsifier (Soy Lecithin), Arachidonic Acid Oil (ARA) (Soy), Docosahexaenoic Acid Oil (DHA) (Soy), Nucleotides (5'-CMP, 5'-AMP, di Sodium 5'-UMP, di Sodium 5'-IMP, di Sodium 5'-GMP), Taurine, Inositol, Antioxidants (Ascorbyl Palmitate, Tocopherol Concentrate, Mixed), Lutein. Minerals (Calcium Carbonate, Potassium Chloride, di Sodium Phosphate, Magnesium Chloride, Potassium Hydroxide, tri Calcium Phosphate, Ferric Pyrophosphate, Manganese Sulphate, Zinc Sulphate, Copper Sulphate, Sodium Selenite, Potassium lodide). Vitamins (Sodium Ascorbate (vitamin C), d-alpha Tocopheryl Acetate (vitamin E) (Soy), Retinyl Acetate (vitamin A), Nicotinamide (vitamin B3), Calcium Pantothenate (vitamin B5), Cyanocobalamin (vitamin B12), D-Biotin, Folic Acid (vitamin B9), Riboflavin (vitamin B2), Thiamin Hydrochloride (vitamin B1), Pyridoxine Hydrochloride (vitamin B6), Phytonadione (vitamin K1) (Soy), Cholecalciferol (vitamin D).",
+      "attributeType": "STRING",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipCarbohydrateQuantityPer100g",
+      "name": "Carbohydrate Quantity Per 100g",
+      "value": "6.67g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 6.67,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipEnergyKJQuantityPer100g",
+      "name": "Energy kJ Quantity Per 100g",
+      "value": "270kJ",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 270,
+      "unit": "kJ"
+    },
+    {
+      "fullQualifier": "c_nipProteinQuantityPer100g",
+      "name": "Protein Quantity Per 100g",
+      "value": "2.20g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 2.2,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_assetType",
+      "name": "Asset Type",
+      "value": "Product Images",
+      "valueIdentifier": "Product Images",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipDietaryFibreQuantityPer100g",
+      "name": "Dietary Fibre Quantity Per 100g",
+      "value": "0.46g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 0.46,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_nipFatTotalQuantityPer100g",
+      "name": "Fat Total Quantity Per 100g",
+      "value": "3.12g",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 3.12,
+      "unit": "g"
+    },
+    {
+      "fullQualifier": "c_productionStatus",
+      "name": "ProductionStatus",
+      "value": "IN PROGRESS",
+      "valueIdentifier": "INPROGRESS",
+      "attributeType": "ENUM",
+      "multiValue": false
+    },
+    {
+      "fullQualifier": "c_nipSodiumQuantityPer100g",
+      "name": "Sodium Quantity Per 100g",
+      "value": "26.4mg",
+      "attributeType": "DECIMAL",
+      "multiValue": false,
+      "operator": "=",
+      "valuePart": 26.4,
+      "unit": "mg"
+    }
+  ],
+  "images": [
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h8e/ha6/11141141463070.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.png",
+      "filesize": 7426636,
+      "mimeType": "image/png",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:50.000+0000",
+      "format": "original",
+      "resolution": "5000X5000",
+      "originalSourceUrl": "https://images.skulibrary.com/media/sys_master/h7d/h73/14060008800286.png?response-content-disposition=inline;filename=Blackmores-Follow-On-Formula-SIDE02.png",
+      "colorSpace": "SRGB",
+      "widthPixels": 5000,
+      "heightPixels": 5000,
+      "xDpi": 72,
+      "yDpi": 72,
+      "rejectionCodes": []
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h59/h5f/11141141528606.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:45.000+0000",
+      "format": "1000Wx1000H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hb9/hc7/11141141594142.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.png",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:45.000+0000",
+      "format": "png_515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h65/ha9/11141141659678.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:46.000+0000",
+      "format": "160Wx160H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h44/h67/11141141856286.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:46.000+0000",
+      "format": "2400Wx2400H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/haf/hd2/11141141921822.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:46.000+0000",
+      "format": "trim"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h38/h1d/11141141725214.tif?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.tif",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:46.000+0000",
+      "format": "tiff"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h5e/h48/11141141790750.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:46.000+0000",
+      "format": "30Wx30H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/hfb/hf8/11141141987358.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:49.000+0000",
+      "format": "515Wx515H"
+    },
+    {
+      "url": "https://testimages.skulibrary.com/media/sys_master/h96/h74/11141142052894.png?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.png",
+      "index": 2,
+      "clippingPath": false,
+      "modifiedTime": "2025-09-11T01:38:50.000+0000",
+      "format": "png_2400Wx2400H"
+    }
+  ],
+  "numericalEans": [
+    9999999999901
+  ],
+  "contentRating": {
+    "contentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingHeroAndPackingImages",
+        "name": "Hero and Packaging Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedImages",
+        "name": "Extended Images",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingProductCopy",
+        "name": "Product Copy",
+        "valid": false,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingExtendedData",
+        "name": "Product Extended Data",
+        "valid": true,
+        "required": true
+      },
+      {
+        "contentRatingId": "contentRatingCoreAttributes",
+        "name": "Core Attributes",
+        "valid": false,
+        "required": true
+      }
+    ],
+    "nonContributingContentRatingComponents": [
+      {
+        "contentRatingId": "contentRatingRichContent",
+        "name": "Rich Content",
+        "valid": false,
+        "required": false
+      }
+    ],
+    "contentRatingScore": 20,
+    "lastEvaluation": "2025-09-11T01:38:43.561Z"
+  }
+}

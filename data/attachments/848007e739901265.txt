@@ -1,8 +1,0 @@
-Negative score for HOST_AI_SUGGESTIONS_TEST_21: {
-  correct: 0,
-  incorrect: 0,
-  hallucinated: 2,
-  invalid: 0,
-  missed: 0,
-  score: -2
-}

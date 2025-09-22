@@ -1,0 +1,94 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_02",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/ha8/h0e/11141157519390.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-02-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Lactose, Skim Milk, Whey Protein, Vegetable Oils (Rapeseed Oil, Coconut Oil, Sunflower Oil, Palm Palmitate), Arachidonic Acid (AA) (Contains Milk), 2'-fucosyllactose (2'-FL) (Contains Milk), Emulsifier (Soy Lecithin), Choline, Inositol, Taurine, Culture (Bifidobacterium infantis), Magnesium, Manganese, Phosphorus, Potassium, Selenium, Sodium, Zinc, Pantothenic Acid, Riboflavin, Thiamin, Vitamin A, Vitamin B6, Vitamin B12, Vitamin C, Vitamin D"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "57g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "7.7g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "2100kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "284kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "26g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "3.5g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "11.5g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "1.6g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "138mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "19mg"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipCholineQuantityPer100g",
+      "proposedValue": "51.5mg"
+    },
+    {
+      "qualifier": "c_nipCholineQuantityPerServe",
+      "proposedValue": "6.96mg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPer100g",
+      "proposedValue": "6.9mg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPerServe",
+      "proposedValue": "0.93mg"
+    },
+    {
+      "qualifier": "c_nipPrebioticQuantityPer100g",
+      "proposedValue": "900mg"
+    },
+    {
+      "qualifier": "c_nipPrebioticQuantityPerServe",
+      "proposedValue": "122mg"
+    },
+    {
+      "qualifier": "c_nipProbioticQuantityPer100g",
+      "proposedValue": "100millionCFU"
+    },
+    {
+      "qualifier": "c_nipProbioticQuantityPerServe",
+      "proposedValue": "13.5millionCFU"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "180mL"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

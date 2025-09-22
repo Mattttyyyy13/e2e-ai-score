@@ -1,0 +1,198 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_01",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h44/h67/11141141856286.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Milk Solids, Vegetable Oil Blend (Soy), Galacto-oligosaccharide (GOS) (Milk), Emulsifier (Soy Lecithin), Arachidonic Acid Oil (ARA) (Soy), Docosahexaenoic Acid Oil (DHA) (Soy), Nucleotides (5'-CMP, 5'-AMP, diSodium5'-UMP, diSodium5'-IMP, diSodium5'-GMP), Taurine, Inositol, Antioxidants (Ascorbyl Palmitate, Tocopherol Concentrate, Mixed), Lutein. Minerals (Calcium Carbonate, Potassium Chloride, diSodiumPhosphate, Magnesium Chloride, Potassium Hydroxide, triCalciumPhosphate, Ferric Pyrophosphate, Manganese Sulphate, Zinc Sulphate, Copper Sulphate, Sodium Selenite, Potassium Iodide). Vitamins (Sodium Ascorbate (vitamin C), d-alpha Tocopheryl Acetate (vitamin E) (Soy), Retinyl Acetate (vitamin A), Nicotinamide (vitamin B3), Calcium Pantothenate (vitamin B5), Cyanocobalamin (vitamin B12), D-Biotin, Folic Acid (vitamin B9), Riboflavin (vitamin B2), Thiamin Hydrochloride (vitamin B1), Pyridoxine Hydrochloride (vitamin B6), Phytonadione (vitamin K1) (Soy), Cholecalciferol (vitamin D)."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "6.67g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "0.46g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "270kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "3.12g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "2.20g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "26.4mg"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "900g"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipAMPQuantityPerServe",
+      "proposedValue": "0.81mg"
+    },
+    {
+      "qualifier": "c_nipARAQuantityPerServe",
+      "proposedValue": "5.94mg"
+    },
+    {
+      "qualifier": "c_nipAlphaLinolenicAcidQuantityPerServe",
+      "proposedValue": "43.6mg"
+    },
+    {
+      "qualifier": "c_nipBiotinQuantityPerServe",
+      "proposedValue": "1.98mcg"
+    },
+    {
+      "qualifier": "c_nipCMPQuantityPerServe",
+      "proposedValue": "1.30mg"
+    },
+    {
+      "qualifier": "c_nipCalciumQuantityPerServe",
+      "proposedValue": "68.6mg"
+    },
+    {
+      "qualifier": "c_nipChlorideQuantityPerServe",
+      "proposedValue": "62.7mg"
+    },
+    {
+      "qualifier": "c_nipCopperQuantityPerServe",
+      "proposedValue": "52.8mcg"
+    },
+    {
+      "qualifier": "c_nipDHAQuantityPerServe",
+      "proposedValue": "5.94mg"
+    },
+    {
+      "qualifier": "c_nipFolateQuantityPerServe",
+      "proposedValue": "13.2mcg"
+    },
+    {
+      "qualifier": "c_nipGMPQuantityPerServe",
+      "proposedValue": "0.18mg"
+    },
+    {
+      "qualifier": "c_nipGOSQuantityPerServe",
+      "proposedValue": "0.46g"
+    },
+    {
+      "qualifier": "c_nipIMPQuantityPerServe",
+      "proposedValue": "0.36mg"
+    },
+    {
+      "qualifier": "c_nipInositolQuantityPerServe",
+      "proposedValue": "3.96mg"
+    },
+    {
+      "qualifier": "c_nipIodineQuantityPerServe",
+      "proposedValue": "9.24mcg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPerServe",
+      "proposedValue": "0.90mg"
+    },
+    {
+      "qualifier": "c_nipLinoleicAcidQuantityPerServe",
+      "proposedValue": "0.38g"
+    },
+    {
+      "qualifier": "c_nipLuteinQuantityPerServe",
+      "proposedValue": "5.94mcg"
+    },
+    {
+      "qualifier": "c_nipMagnesiumQuantityPerServe",
+      "proposedValue": "7.26mg"
+    },
+    {
+      "qualifier": "c_nipManganeseQuantityPerServe",
+      "proposedValue": "10.6mcg"
+    },
+    {
+      "qualifier": "c_nipNiacinQuantityPerServe",
+      "proposedValue": "0.48mg"
+    },
+    {
+      "qualifier": "c_nipNucleotidesQuantityPerServe",
+      "proposedValue": "3.30mg"
+    },
+    {
+      "qualifier": "c_nipPantothenicAcidQuantityPerServe",
+      "proposedValue": "356mcg"
+    },
+    {
+      "qualifier": "c_nipPhosphorusQuantityPerServe",
+      "proposedValue": "42.2mg"
+    },
+    {
+      "qualifier": "c_nipPotassiumQuantityPerServe",
+      "proposedValue": "79.2mg"
+    },
+    {
+      "qualifier": "c_nipRiboflavinQuantityPerServe",
+      "proposedValue": "198mcg"
+    },
+    {
+      "qualifier": "c_nipSeleniumQuantityPerServe",
+      "proposedValue": "1.98mcg"
+    },
+    {
+      "qualifier": "c_nipTaurineQuantityPerServe",
+      "proposedValue": "5.28mg"
+    },
+    {
+      "qualifier": "c_nipThiaminQuantityPerServe",
+      "proposedValue": "66.0mcg"
+    },
+    {
+      "qualifier": "c_nipUMPQuantityPerServe",
+      "proposedValue": "0.65mg"
+    },
+    {
+      "qualifier": "c_nipVitaminAQuantityPerServe",
+      "proposedValue": "50.0mcg RE"
+    },
+    {
+      "qualifier": "c_nipVitaminB12QuantityPerServe",
+      "proposedValue": "0.33mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminB6QuantityPerServe",
+      "proposedValue": "52.8mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminCQuantityPerServe",
+      "proposedValue": "9.90mg"
+    },
+    {
+      "qualifier": "c_nipVitaminDQuantityPerServe",
+      "proposedValue": "0.86mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminEQuantityPerServe",
+      "proposedValue": "0.99mg a-TE"
+    },
+    {
+      "qualifier": "c_nipVitaminK1QuantityPerServe",
+      "proposedValue": "5.28mcg"
+    },
+    {
+      "qualifier": "c_nipZincQuantityPerServe",
+      "proposedValue": "0.38mg"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

@@ -1,0 +1,350 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_12",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h50/hbc/11141190189086.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-12-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_nipAdditionalInformation",
+      "proposedValue": "Average quantity."
+    },
+    {
+      "qualifier": "c_nipAlphaLinolenicAcidQuantityPer100g",
+      "proposedValue": "0.4g"
+    },
+    {
+      "qualifier": "c_nipAlphaLinolenicAcidQuantityPerServe",
+      "proposedValue": "0.05g"
+    },
+    {
+      "qualifier": "c_nipArachidonicAcidQuantityPer100g",
+      "proposedValue": "78mcg"
+    },
+    {
+      "qualifier": "c_nipArachidonicAcidQuantityPerServe",
+      "proposedValue": "10.3mcg"
+    },
+    {
+      "qualifier": "c_nipBiotinQuantityPer100g",
+      "proposedValue": "12mcg"
+    },
+    {
+      "qualifier": "c_nipBiotinQuantityPerServe",
+      "proposedValue": "1.6mcg"
+    },
+    {
+      "qualifier": "c_nipCalciumQuantityPer100g",
+      "proposedValue": "490mg"
+    },
+    {
+      "qualifier": "c_nipCalciumQuantityPerServe",
+      "proposedValue": "64.7mg"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "55.8g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "73g"
+    },
+    {
+      "qualifier": "c_nipCarnitineQuantityPer100g",
+      "proposedValue": "9mg"
+    },
+    {
+      "qualifier": "c_nipCarnitineQuantityPerServe",
+      "proposedValue": "1.2mg"
+    },
+    {
+      "qualifier": "c_nipChlorideQuantityPer100g",
+      "proposedValue": "420mg"
+    },
+    {
+      "qualifier": "c_nipChlorideQuantityPerServe",
+      "proposedValue": "55mg"
+    },
+    {
+      "qualifier": "c_nipCholineQuantityPer100g",
+      "proposedValue": "50mg"
+    },
+    {
+      "qualifier": "c_nipCholineQuantityPerServe",
+      "proposedValue": "6.6mg"
+    },
+    {
+      "qualifier": "c_nipCopperQuantityPer100g",
+      "proposedValue": "400mcg"
+    },
+    {
+      "qualifier": "c_nipCopperQuantityPerServe",
+      "proposedValue": "53mcg"
+    },
+    {
+      "qualifier": "c_nipDocosahexaenoicAcidQuantityPer100g",
+      "proposedValue": "78mcg"
+    },
+    {
+      "qualifier": "c_nipDocosahexaenoicAcidQuantityPerServe",
+      "proposedValue": "10.3mcg"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "2110kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "280kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "26g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "3.4g"
+    },
+    {
+      "qualifier": "c_nipFolicAcidQuantityPer100g",
+      "proposedValue": "95mcg"
+    },
+    {
+      "qualifier": "c_nipFolicAcidQuantityPerServe",
+      "proposedValue": "13mcg"
+    },
+    {
+      "qualifier": "c_nipInositolQuantityPer100g",
+      "proposedValue": "50mg"
+    },
+    {
+      "qualifier": "c_nipInositolQuantityPerServe",
+      "proposedValue": "6.6mg"
+    },
+    {
+      "qualifier": "c_nipIodineQuantityPer100g",
+      "proposedValue": "90mcg"
+    },
+    {
+      "qualifier": "c_nipIodineQuantityPerServe",
+      "proposedValue": "12mcg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPer100g",
+      "proposedValue": "5mg"
+    },
+    {
+      "qualifier": "c_nipIronQuantityPerServe",
+      "proposedValue": "0.7mg"
+    },
+    {
+      "qualifier": "c_nipLinoleicAcidQuantityPer100g",
+      "proposedValue": "3.8g"
+    },
+    {
+      "qualifier": "c_nipLinoleicAcidQuantityPerServe",
+      "proposedValue": "0.5g"
+    },
+    {
+      "qualifier": "c_nipMagnesiumQuantityPer100g",
+      "proposedValue": "45mg"
+    },
+    {
+      "qualifier": "c_nipMagnesiumQuantityPerServe",
+      "proposedValue": "5.9mg"
+    },
+    {
+      "qualifier": "c_nipManganeseQuantityPer100g",
+      "proposedValue": "65mcg"
+    },
+    {
+      "qualifier": "c_nipManganeseQuantityPerServe",
+      "proposedValue": "8.6mcg"
+    },
+    {
+      "qualifier": "c_nipMonounsaturatedFatsQuantityPer100g",
+      "proposedValue": "14g"
+    },
+    {
+      "qualifier": "c_nipMonounsaturatedFatsQuantityPerServe",
+      "proposedValue": "1.85g"
+    },
+    {
+      "qualifier": "c_nipPhosphorousQuantityPer100g",
+      "proposedValue": "330mg"
+    },
+    {
+      "qualifier": "c_nipPhosphorousQuantityPerServe",
+      "proposedValue": "44mg"
+    },
+    {
+      "qualifier": "c_nipPolyunsaturatedFatsQuantityPer100g",
+      "proposedValue": "4.6g"
+    },
+    {
+      "qualifier": "c_nipPolyunsaturatedFatsQuantityPerServe",
+      "proposedValue": "0.6g"
+    },
+    {
+      "qualifier": "c_nipPotassiumQuantityPer100g",
+      "proposedValue": "615mg"
+    },
+    {
+      "qualifier": "c_nipPotassiumQuantityPerServe",
+      "proposedValue": "81mg"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "11.2g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "1.5g"
+    },
+    {
+      "qualifier": "c_nipSeleniumQuantityPer100g",
+      "proposedValue": "12mcg"
+    },
+    {
+      "qualifier": "c_nipSeleniumQuantityPerServe",
+      "proposedValue": "1.6mcg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "200mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "26mg"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "29g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "3.8g"
+    },
+    {
+      "qualifier": "c_nipTaurineQuantityPer100g",
+      "proposedValue": "37mg"
+    },
+    {
+      "qualifier": "c_nipTaurineQuantityPerServe",
+      "proposedValue": "4.9mg"
+    },
+    {
+      "qualifier": "c_nipVitaminB12QuantityPer100g",
+      "proposedValue": "3.5mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminB12QuantityPerServe",
+      "proposedValue": "0.5mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminCQuantityPer100g",
+      "proposedValue": "100mg"
+    },
+    {
+      "qualifier": "c_nipVitaminCQuantityPerServe",
+      "proposedValue": "13mg"
+    },
+    {
+      "qualifier": "c_nipVitaminDQuantityPer100g",
+      "proposedValue": "8.6mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminDQuantityPerServe",
+      "proposedValue": "1mcg"
+    },
+    {
+      "qualifier": "c_nipVitaminEQuantityPer100g",
+      "proposedValue": "14mg"
+    },
+    {
+      "qualifier": "c_nipVitaminEQuantityPerServe",
+      "proposedValue": "1.8mg"
+    },
+    {
+      "qualifier": "c_nipVitaminKQuantityPer100g",
+      "proposedValue": "50mg"
+    },
+    {
+      "qualifier": "c_nipVitaminKQuantityPerServe",
+      "proposedValue": "6.6mg"
+    },
+    {
+      "qualifier": "c_nipZincQuantityPer100g",
+      "proposedValue": "5mg"
+    },
+    {
+      "qualifier": "c_nipZincQuantityPerServe",
+      "proposedValue": "0.7mg"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "4.4g"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nip2'-FucosyllactoseQuantityPer100g",
+      "proposedValue": "758mg"
+    },
+    {
+      "qualifier": "c_nip2'-FucosyllactoseQuantityPerServe",
+      "proposedValue": "100mg"
+    },
+    {
+      "qualifier": "c_nipLacto-N-neotetraoseQuantityPer100g",
+      "proposedValue": "379mg"
+    },
+    {
+      "qualifier": "c_nipLacto-N-neotetraoseQuantityPerServe",
+      "proposedValue": "50mg"
+    },
+    {
+      "qualifier": "c_nipNiacinQuantityPer100g",
+      "proposedValue": "5.3mg"
+    },
+    {
+      "qualifier": "c_nipNiacinQuantityPerServe",
+      "proposedValue": "0.7mg"
+    },
+    {
+      "qualifier": "c_nipPantothenicAcidQuantityPer100g",
+      "proposedValue": "3.3mg"
+    },
+    {
+      "qualifier": "c_nipPantothenicAcidQuantityPerServe",
+      "proposedValue": "0.44mg"
+    },
+    {
+      "qualifier": "c_nipRiboflavinQuantityPer100g",
+      "proposedValue": "1.1mg"
+    },
+    {
+      "qualifier": "c_nipRiboflavinQuantityPerServe",
+      "proposedValue": "0.15mg"
+    },
+    {
+      "qualifier": "c_nipThiaminQuantityPer100g",
+      "proposedValue": "0.5mg"
+    },
+    {
+      "qualifier": "c_nipThiaminQuantityPerServe",
+      "proposedValue": "0.07mg"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "66kcal"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPer100g",
+      "proposedValue": "504kcal"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

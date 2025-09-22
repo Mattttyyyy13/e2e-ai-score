@@ -1,0 +1,8 @@
+{
+  "correct": 1,
+  "incorrect": 0,
+  "hallucinated": 1,
+  "invalid": 80,
+  "missed": 0,
+  "score": -80
+}

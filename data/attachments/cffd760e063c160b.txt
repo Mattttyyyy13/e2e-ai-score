@@ -1,8 +1,0 @@
-Negative score for HOST_AI_SUGGESTIONS_TEST_02: {
-  correct: 10,
-  incorrect: 1,
-  hallucinated: 1,
-  invalid: 69,
-  missed: 0,
-  score: -61
-}
