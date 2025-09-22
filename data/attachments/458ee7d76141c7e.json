@@ -1,0 +1,138 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_04",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h18/hd2/11141183307806.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-04-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Orange Juice (100%)."
+    },
+    {
+      "qualifier": "c_nipAddedSugarQuantityPer100g",
+      "proposedValue": "0.0g"
+    },
+    {
+      "qualifier": "c_nipAddedSugarQuantityPerServe",
+      "proposedValue": "0.0g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "14%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "8.7g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "43.5g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreDailyIntake",
+      "proposedValue": "10%"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "0.6g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "3.0g"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPer100g",
+      "proposedValue": "39Cal"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "196Cal"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "9%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "164kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "820kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "<1%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "<1.0g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "<1.0g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "6%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "0.6g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "3.0g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "0%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "0.0g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0.0g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "<1%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "1mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "5mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "45%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "8.1g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "40.5g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "1"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "500mL"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

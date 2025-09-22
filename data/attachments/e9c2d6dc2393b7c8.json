@@ -1,0 +1,282 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_09",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h7f/h8d/11141187371038.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-09-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "protein blend protein, sprouted and fire pea protein, faba bean pre chia seed protein) (5%), powder* (11.7%), cacao po (3%), natural flavours the vanilla) (2%), stevie extrad (0.6%), cinnamon ponder Himalayan pink sat 1.3 xanthan gum, digestive com (bromelain, papain) (0.6%) *p ingredients."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "0.4%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "3.9g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "1.2g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreDailyIntake",
+      "proposedValue": "6.7%"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "6.7g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "2.0g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "5.6%"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "1630kJ"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "488kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "4%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "9.3g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "2.8g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "42.2%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "70.4g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "21.1g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "3.8%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "2.9g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0.9g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "12%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "923mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "277mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "0.2%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "0.5g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "0.2g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "330ml"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "10"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipAlanineQuantityPer100g",
+      "proposedValue": "2.37g"
+    },
+    {
+      "qualifier": "c_nipAlanineQuantityPerServe",
+      "proposedValue": "0.71g"
+    },
+    {
+      "qualifier": "c_nipArginineQuantityPer100g",
+      "proposedValue": "5.40g"
+    },
+    {
+      "qualifier": "c_nipArginineQuantityPerServe",
+      "proposedValue": "1.62g"
+    },
+    {
+      "qualifier": "c_nipAsparaticAcidQuantityPer100g",
+      "proposedValue": "5.85g"
+    },
+    {
+      "qualifier": "c_nipAsparaticAcidQuantityPerServe",
+      "proposedValue": "1.75g"
+    },
+    {
+      "qualifier": "c_nipCysteinCystineQuantityPer100g",
+      "proposedValue": "0.52g"
+    },
+    {
+      "qualifier": "c_nipCysteinCystineQuantityPerServe",
+      "proposedValue": "0.15g"
+    },
+    {
+      "qualifier": "c_nipGlutamicAcidQuantityPer100g",
+      "proposedValue": "9.31g"
+    },
+    {
+      "qualifier": "c_nipGlutamicAcidQuantityPerServe",
+      "proposedValue": "2.79g"
+    },
+    {
+      "qualifier": "c_nipGlycineQuantityPer100g",
+      "proposedValue": "2.57g"
+    },
+    {
+      "qualifier": "c_nipGlycineQuantityPerServe",
+      "proposedValue": "0.77g"
+    },
+    {
+      "qualifier": "c_nipHistidineQuantityPer100g",
+      "proposedValue": "1.59g"
+    },
+    {
+      "qualifier": "c_nipHistidineQuantityPerServe",
+      "proposedValue": "0.48g"
+    },
+    {
+      "qualifier": "c_nipIsoleucineQuantityPer100g",
+      "proposedValue": "3.00g"
+    },
+    {
+      "qualifier": "c_nipIsoleucineQuantityPerServe",
+      "proposedValue": "0.90g"
+    },
+    {
+      "qualifier": "c_nipLeucineQuantityPer100g",
+      "proposedValue": "5.32g"
+    },
+    {
+      "qualifier": "c_nipLeucineQuantityPerServe",
+      "proposedValue": "1.60g"
+    },
+    {
+      "qualifier": "c_nipLysineQuantityPer100g",
+      "proposedValue": "3.99g"
+    },
+    {
+      "qualifier": "c_nipLysineQuantityPerServe",
+      "proposedValue": "1.20g"
+    },
+    {
+      "qualifier": "c_nipMethionineQuantityPer100g",
+      "proposedValue": "0.63g"
+    },
+    {
+      "qualifier": "c_nipMethionineQuantityPerServe",
+      "proposedValue": "0.19g"
+    },
+    {
+      "qualifier": "c_nipPhenylalanineQuantityPer100g",
+      "proposedValue": "3.47g"
+    },
+    {
+      "qualifier": "c_nipPhenylalanineQuantityPerServe",
+      "proposedValue": "1.04g"
+    },
+    {
+      "qualifier": "c_nipProlineQuantityPer100g",
+      "proposedValue": "2.58g"
+    },
+    {
+      "qualifier": "c_nipProlineQuantityPerServe",
+      "proposedValue": "0.77g"
+    },
+    {
+      "qualifier": "c_nipSerineQuantityPer100g",
+      "proposedValue": "3.30g"
+    },
+    {
+      "qualifier": "c_nipSerineQuantityPerServe",
+      "proposedValue": "0.99g"
+    },
+    {
+      "qualifier": "c_nipThreonineQuantityPer100g",
+      "proposedValue": "2.33g"
+    },
+    {
+      "qualifier": "c_nipThreonineQuantityPerServe",
+      "proposedValue": "0.70g"
+    },
+    {
+      "qualifier": "c_nipTryptophanQuantityPer100g",
+      "proposedValue": "0.49g"
+    },
+    {
+      "qualifier": "c_nipTryptophanQuantityPerServe",
+      "proposedValue": "0.15g"
+    },
+    {
+      "qualifier": "c_nipTyrosineQuantityPer100g",
+      "proposedValue": "2.12g"
+    },
+    {
+      "qualifier": "c_nipTyrosineQuantityPerServe",
+      "proposedValue": "0.64g"
+    },
+    {
+      "qualifier": "c_nipValineQuantityPer100g",
+      "proposedValue": "3.19g"
+    },
+    {
+      "qualifier": "c_nipValineQuantityPerServe",
+      "proposedValue": "0.96g"
+    },
+    {
+      "qualifier": "c_nipGlutenQuantityPerServe",
+      "proposedValue": "nildetected"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "117cal"
+    },
+    {
+      "qualifier": "c_nipGlutenQuantityPer100g",
+      "proposedValue": "nildetected"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPer100g",
+      "proposedValue": "390cal"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

@@ -1,3 +1,0 @@
-Auth cookies after login: []
-Using bearer token
-About to POST with context body = none ...

@@ -1,0 +1,90 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_19",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h20/hd6/11146248945694.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-19-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Whole Grain Wholemeal Wheat Flour(63%), Olive Oil, Wheat Flour, Raising Agents(450,500,341), Water, Canola Oil, Vinegar, Salt, Extra Virgin Olive Oil, Dextrose, Preservative(282), Emulsifier, Soy Flour, Vitamins(Thiamin, Folic Acid)"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "110g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "4"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "Carbohydrate:QuantityPerServe:48.8g;DailyIntakePerServe:16%;QuantityPer100g:44.4g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "Dietary Fibre:QuantityPerServe:6.6g;DailyIntakePerServe:22%;QuantityPer100g:0.6g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "Sodium:QuantityPerServe:711mg;DailyIntakePerServe:31%;QuantityPer100g:646mg"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "Sugars:QuantityPerServe:0.7g;DailyIntakePerServe:3%;QuantityPer100g:0.6g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "Energy kJ:QuantityPerServe:1290kJ;DailyIntakePerServe:15%;QuantityPer100g:1170kJ"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "Saturated Fats:QuantityPerServe:3.4g;DailyIntakePerServe:4%;QuantityPer100g:6.0g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "Fat, total:QuantityPerServe:6.8g;DailyIntakePerServe:16%;QuantityPer100g:8.2g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "Fat, total:QuantityPerServe:6.8g;DailyIntakePerServe:16%;QuantityPer100g:8.2g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "Dietary Fibre:QuantityPerServe:6.6g;DailyIntakePerServe:22%;QuantityPer100g:0.6g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "Sodium:QuantityPerServe:711mg;DailyIntakePerServe:31%;QuantityPer100g:646mg"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "Protein:QuantityPerServe:6.8g;DailyIntakePerServe:10%;QuantityPer100g:3.1g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "Sugars:QuantityPerServe:0.7g;DailyIntakePerServe:3%;QuantityPer100g:0.6g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "Protein:QuantityPerServe:6.8g;DailyIntakePerServe:10%;QuantityPer100g:3.1g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "Saturated Fats:QuantityPerServe:3.4g;DailyIntakePerServe:4%;QuantityPer100g:6.0g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "Carbohydrate:QuantityPerServe:48.8g;DailyIntakePerServe:16%;QuantityPer100g:44.4g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "Energy kJ:QuantityPerServe:1290kJ;DailyIntakePerServe:15%;QuantityPer100g:1170kJ"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}
