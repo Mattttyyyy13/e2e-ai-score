@@ -41,9 +41,6 @@ const PRODUCT_URL = getEnv('AI_SUGGESTIONS_AUTH_TEST_PRODUCT_URL');
 let authHeaders: Record<string, string> = {};
 
 test.describe('AI OCR suggestions – scoring harness', () => {
-  // Ensure per-product tests run one after another so the totals object is fully populated for the final aggregate test
-  // TODO: Uncomment this when we have a way to run the tests in serial (but, the the statae is not fully shared correctly)
-  // test.describe.configure({ mode: 'serial' });
   // Product suggestions can take ~45s; give buffer
   test.setTimeout(300_000); // 5 minutes
   let api: APIRequestContext;
@@ -128,9 +125,7 @@ test.describe('AI OCR suggestions – scoring harness', () => {
       }
 
       const resp = await api.post(query, options);
-      if (!resp.ok()) {
-        console.warn(`Suggestion request failed for ${productCode}:`, resp.status());
-      }
+      expect(resp.ok()).toBeTruthy();
       const json = (await resp.json()) as ProductSuggestionResponse;
 
       const breakdown = scoreProduct(baseline, json);
@@ -167,12 +162,12 @@ test.describe('AI OCR suggestions – scoring harness', () => {
       });
 
       testInfo.attach('Breakdown JSON Result', {
-        body: JSON.stringify(bodyContext, null, 2),
+        body: JSON.stringify(breakdown, null, 2),
         contentType: 'application/json',
       });
 
       testInfo.attach('Custom Context', {
-        body: JSON.stringify(context, null, 2),
+        body: JSON.stringify(bodyContext, null, 2),
         contentType: 'application/json',
       });
 
@@ -221,13 +216,10 @@ test.describe('AI OCR suggestions – scoring harness', () => {
         console.warn('Error fetching chart image', err);
       }
 
-      // Optional threshold – soft check so we don't abort the remaining product tests
-      if (breakdown.score < 0) {
-        console.warn(`Negative score for ${productCode}:`, breakdown);
-      }
+      // Optional threshold
+      expect(breakdown.score).toBeGreaterThanOrEqual(0);
     });
   }
-
 
   // TODO: If needed, add summary-teardown.ts to generate summary visuals (more research is needed)
   // test.afterAll(async () => {
