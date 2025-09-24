@@ -2,7 +2,15 @@ name: Tests
 on: 
   push:
     branches: [ main ] # Workflow will be activated whenever there's a push on branch 'main'
-
+  # Allow manual trigger from GitHub UI / API
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Why are you triggering the tests? (optional)'
+        required: false
+  # TODO: If needed a nightly run at 02:00 UTC (adjust as needed) – keeps history fresh even without commits
+  # schedule:
+  #   - cron: '0 2 * * *'
 jobs:
   test:
     runs-on: ubuntu-latest
