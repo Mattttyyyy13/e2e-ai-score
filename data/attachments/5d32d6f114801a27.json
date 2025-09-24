@@ -1,0 +1,65 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_01",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h44/h67/11141141856286.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-01-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Milk Solids, Vegetable Oil Blend (Soy), Galacto-oligosaccharide (GOS) (Milk), Emulsifier (Soy Lecithin), Arachidonic Acid Oil (ARA) (Soy), Docosahexaenoic Acid Oil (DHA) (Soy), Nucleotides (5'-CMP, 5'-AMP, diSodium5'-UMP, diSodium5'-IMP, diSodium5'-GMP), Taurine, Inositol, Antioxidants (Ascorbyl Palmitate, Tocopherol Concentrate, Mixed), Lutein. Minerals (Calcium Carbonate, Potassium Chloride, diSodium Phosphate, Magnesium Chloride, Potassium Hydroxide, triCalcium Phosphate, Ferric Pyrophosphate, Manganese Sulphate, Zinc Sulphate, Copper Sulphate, Sodium Selenite, Potassium Iodide). Vitamins (Sodium Ascorbate (vitamin C), d-alpha Tocopheryl Acetate (vitamin E) (Soy), Retinyl Acetate (vitamin A), Nicotinamide (vitamin B3), Calcium Pantothenate (vitamin B5), Cyanocobalamin (vitamin B12), D-Biotin, Folic Acid (vitamin B9), Riboflavin (vitamin B2), Thiamin Hydrochloride (vitamin B1), Pyridoxine Hydrochloride (vitamin B6), Phytonadione (vitamin K1) (Soy), Cholecalciferol (vitamin D)."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "0.38g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "6.67g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "0.46g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "0.46g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "270kJ"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "3.12g"
+    },
+    {
+      "qualifier": "c_nipMonounsaturatedFatsQuantityPer100g",
+      "proposedValue": "43.6mcg"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "2.20g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "26.4mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "79.2mg"
+    },
+    {
+      "qualifier": "c_nipTransFatQuantityPer100g",
+      "proposedValue": "5.94mcg"
+    },
+    {
+      "qualifier": "c_nipTransFatQuantityPerServe",
+      "proposedValue": "5.94mcg"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [],
+  "type": "AI_OCR",
+  "active": true
+}

@@ -1,0 +1,90 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_07",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/hb5/h14/11141192744990.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-07-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Carbonated water sugar, colour (150d), food acid (338) flavour, caffeine."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "10.6g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "32g"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPer100g",
+      "proposedValue": "43Cal"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "129Cal"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "10.0mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "30mg"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "10.6g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "32g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "300ml"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "1"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "540kJ 129Cal"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "180kJ 43Cal"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

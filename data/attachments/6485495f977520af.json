@@ -1,0 +1,62 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_10",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h68/hf3/11141188157470.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-10-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Pasta (78%) [wheat flour, natural colour (carotene)], maltodextrin, natural flavours (contain milk), starches (corn, potato), cheese powder (2%) (milk), mineral salts (508, 451, 452), flavour enhancer (621), salt, sugar, chives (0.2%), mustard powder, vegetable oil."
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "2"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "Carbohydrate:28.8g | DailyIntakePerServe:11% | Per100g:71.9g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "Fat Total:1.2g | DailyIntakePerServe:7% | Per100g:2.9g"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "Sodium:330mg | DailyIntakePerServe:17% | Per100g:820mg"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "Dietary Fibre:1.1g | DailyIntakePerServe:4% | Per100g:2.8g"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "Energy Cal:148Cal | DailyIntakePerServe:11% | Per100g:370Cal"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "Sugars:1.5g | DailyIntakePerServe:9% | Per100g:3.7g"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "Approx.40g makes 186g as preparedt"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "Energy:620kJ (148Cal) | DailyIntakePerServe:11% | Per100g:1550kJ"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "Saturated Fats:0.4g | DailyIntakePerServe:8% | Per100g:1.1g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "Protein:4.5g | DailyIntakePerServe:18% | Per100g:11.3g"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

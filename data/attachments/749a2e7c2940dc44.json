@@ -1,0 +1,90 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_19",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h20/hd6/11146248945694.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-19-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Whole Grain Wholemeal Wheat Flour(63%), Olive Oil, Wheat Flour, Raising Agents(450,500,341), Water, Canola Oil, Vinegar, Salt, Extra Virgin Olive Oil, Dextrose, Preservative(282), Emulsifier, Soy Flour, Vitamins(Thiamin, Folic Acid)"
+    },
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "110g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "4"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "Carbohydrate:48.8g|16%|44.4g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "Protein:18%| |"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "Sodium:711mg|31%|646mg"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "Sugars:0.7g|3%|0.6g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "Energy:1290kJ| |1170kJ"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "Saturated fat:3.4g|4%|0.6g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "Carbohydrate:16%| |"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "Fat, total:6.6g|22%|8.2g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "Dietary Fibre:6.8g|10%|6.0g"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "Sugars:3%| |"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "Saturated fat:4%| |"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "Energy: | |"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "Sodium:31%| |15%"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "Fat, total:22%| |"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreDailyIntake",
+      "proposedValue": "Dietary Fibre:10%| |"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "Protein:9.0g|18%|6.2g"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}

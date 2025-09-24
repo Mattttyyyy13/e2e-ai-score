@@ -1,0 +1,126 @@
+{
+  "productCode": "HOST_AI_SUGGESTIONS_TEST_10",
+  "imagesAndUrls": {
+    "2": "https://testimages.skulibrary.com/media/sys_master/h68/hf3/11141188157470.jpg?response-content-disposition=inline;filename=HOST-AI-SUGGESTIONS-TEST-10-2.jpg"
+  },
+  "attributeSuggestions": [
+    {
+      "qualifier": "c_ingredients",
+      "proposedValue": "Pasta(78%)[wheat flour,natural colour(carotene)],maltodextrin,natural flavours(contain milk),starches(corn,potato),cheese powder(2%)(milk),mineral salts(508,451,452),flavour enhancer(621),salt,sugar,chives(0.2%),mustard powder,vegetable oil."
+    },
+    {
+      "qualifier": "c_nipCarbohydrateDailyIntake",
+      "proposedValue": "11%"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPer100g",
+      "proposedValue": "71.9g"
+    },
+    {
+      "qualifier": "c_nipCarbohydrateQuantityPerServe",
+      "proposedValue": "28.8g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreDailyIntake",
+      "proposedValue": "4%"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPer100g",
+      "proposedValue": "2.8g"
+    },
+    {
+      "qualifier": "c_nipDietaryFibreQuantityPerServe",
+      "proposedValue": "1.1g"
+    },
+    {
+      "qualifier": "c_nipEnergyCalQuantityPerServe",
+      "proposedValue": "148Cal"
+    },
+    {
+      "qualifier": "c_nipEnergyKJDailyIntake",
+      "proposedValue": "11%"
+    },
+    {
+      "qualifier": "c_nipFatTotalDailyIntake",
+      "proposedValue": "7%"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPer100g",
+      "proposedValue": "2.9g"
+    },
+    {
+      "qualifier": "c_nipFatTotalQuantityPerServe",
+      "proposedValue": "1.2g"
+    },
+    {
+      "qualifier": "c_nipProteinDailyIntake",
+      "proposedValue": "18%"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPer100g",
+      "proposedValue": "11.3g"
+    },
+    {
+      "qualifier": "c_nipProteinQuantityPerServe",
+      "proposedValue": "4.5g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsDailyIntake",
+      "proposedValue": "8%"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPer100g",
+      "proposedValue": "1.1g"
+    },
+    {
+      "qualifier": "c_nipSaturatedFatsQuantityPerServe",
+      "proposedValue": "0.4g"
+    },
+    {
+      "qualifier": "c_nipSodiumDailyIntake",
+      "proposedValue": "17%"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPer100g",
+      "proposedValue": "820mg"
+    },
+    {
+      "qualifier": "c_nipSodiumQuantityPerServe",
+      "proposedValue": "330mg"
+    },
+    {
+      "qualifier": "c_nipSugarsDailyIntake",
+      "proposedValue": "9%"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPer100g",
+      "proposedValue": "3.7g"
+    },
+    {
+      "qualifier": "c_nipSugarsQuantityPerServe",
+      "proposedValue": "1.5g"
+    },
+    {
+      "qualifier": "c_servingsPerPack",
+      "proposedValue": "2"
+    }
+  ],
+  "userId": "matthewvis",
+  "source": "AI-SUGGEST-V1",
+  "invalidAttributeSuggestions": [
+    {
+      "qualifier": "c_servingSize",
+      "proposedValue": "Approx.40g"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPer100g",
+      "proposedValue": "935kJ(223Cal)"
+    },
+    {
+      "qualifier": "c_nipEnergyKJQuantityPerServe",
+      "proposedValue": "620kJ(148Cal)"
+    }
+  ],
+  "type": "AI_OCR",
+  "active": true
+}
